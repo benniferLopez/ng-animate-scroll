@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/mansour-ahmed/ng-animate-scroll#readme",
   "dependencies": {
+    "@angular-devkit/schematics": "^9.0.7",
     "@angular/animations": "^7.2.4",
     "@angular/common": "^7.2.4",
     "@angular/compiler": "^7.2.4",
