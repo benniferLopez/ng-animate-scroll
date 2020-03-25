@@ -18,7 +18,8 @@
           "configurations": {
             "production": {
               "project": "projects/ng-animate-scroll/ng-package.prod.json"
-            }
+            ,              "tsConfig": "projects/ng-animate-scroll/tsconfig.lib.prod.json"
+}
           }
         },
         "test": {
